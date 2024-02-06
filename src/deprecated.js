@@ -116,3 +116,5 @@ const nonRecursiveTrie = () => {
     search,
   };
 };
+
+module.exports = { nonRecursiveTrie };
